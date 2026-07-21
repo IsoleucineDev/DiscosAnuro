@@ -1,0 +1,276 @@
+Sí. De hecho creo que se puede elevar mucho más el resultado si mezclas ambos estilos.
+
+El sitio de **Shigetaka Ikemoto** destaca por su **dirección de arte editorial japonesa**, con muchísimo aire, fotografía protagonista, tipografía enorme, composición asimétrica, detalles minimalistas y una sensación premium. ([Shigetaka Ikemoto Official Website][1])
+
+Mientras que tus referencias para Instagram probablemente tienen más elementos gráficos, stickers, colores e iconografía.
+
+Yo haría una mezcla aproximadamente así:
+
+* **60% Editorial japonés (Ikemoto)**
+* **25% Diseño moderno para redes sociales**
+* **15% Estilo experimental con elementos dibujados a mano**
+
+Así el resultado no se verá como un template genérico de Canva.
+
+---
+
+# Prompt
+
+> Diseña un **Instagram Carousel Design System** inspirado en las imágenes de referencia proporcionadas y fusionando la dirección de arte del sitio de Shigetaka Ikemoto ([https://ikemotoshigetaka.com/](https://ikemotoshigetaka.com/)) como inspiración visual, sin copiar su diseño directamente. El objetivo es capturar su estética editorial japonesa, composición elegante, tipografía dominante, ritmo visual y sensación premium, adaptándolos a un sistema moderno para redes sociales. ([Shigetaka Ikemoto Official Website][1])
+>
+> Quiero construir un **Design System**, no únicamente un carrusel.
+>
+> Todo debe ser reutilizable mediante componentes y variantes.
+>
+> ---
+>
+> ## Estilo visual
+>
+> Fusionar:
+>
+> * Editorial japonés
+> * Diseño minimalista
+> * Magazine Layout
+> * Brutalism ligero
+> * Swiss Grid
+> * Elementos experimentales
+> * Movimiento visual
+> * Espacios en blanco amplios
+> * Capas superpuestas
+> * Fotografías protagonistas
+> * Tipografía enorme
+> * Detalles gráficos pequeños
+> * Bordes finos
+> * Mucha jerarquía visual
+> * Composición asimétrica
+> * Sensación artística y premium
+>
+> Debe sentirse como una mezcla entre:
+>
+> * Revista de diseño
+> * Portafolio creativo
+> * Álbum musical
+> * Editorial japonesa
+> * Instagram moderno
+>
+> ---
+>
+> ## Crear un sistema completo
+>
+> Construir componentes reutilizables para:
+>
+> * Portadas
+> * Slides de contenido
+> * Carruseles educativos
+> * Tips
+> * Timeline
+> * Before/After
+> * Comparativas
+> * Estadísticas
+> * CTA
+> * Contacto
+> * Frases
+> * Quotes
+> * Promoción de música
+> * Portafolio
+> * Branding personal
+>
+> ---
+>
+> ## Componentes
+>
+> Crear componentes independientes para:
+>
+> * Cards
+> * Contenedores
+> * Badges
+> * Etiquetas
+> * Botones
+> * Chips
+> * Separadores
+> * Líneas
+> * Cintas
+> * Marcos
+> * Stickers
+> * Post-it
+> * Sombras
+> * Formas orgánicas
+> * Fondos
+> * Gradientes
+> * Texturas
+> * Marcos editoriales
+> * Grid overlays
+>
+> Todos mediante Auto Layout.
+>
+> ---
+>
+> ## Elementos gráficos
+>
+> Crear una biblioteca de elementos decorativos independientes:
+>
+> * Flechas dibujadas
+> * Scribbles
+> * Underlines
+> * Chispas
+> * Estrellas
+> * Cruces
+> * Círculos
+> * Rectángulos
+> * Blob Shapes
+> * Sellos
+> * Cinta adhesiva
+> * Washi tape
+> * Paper clips
+> * Etiquetas
+> * Sellos tipo editorial
+> * Números gigantes
+> * Líneas curvas
+> * Pinceladas
+>
+> Todos deben poder reutilizarse.
+>
+> ---
+>
+> ## Sistema para fotografías
+>
+> Crear Photo Placeholders inteligentes que permitan simplemente arrastrar una fotografía y reemplazarla.
+>
+> Variantes:
+>
+> * Rectangular
+> * Vertical
+> * Horizontal
+> * Circular
+> * Blob
+> * Polaroid
+> * Editorial Frame
+> * Magazine Crop
+> * Irregular Mask
+> * Sticker Photo
+>
+> ---
+>
+> ## Biblioteca de iconos
+>
+> Diseñar iconos originales con el mismo estilo visual del sistema.
+>
+> Incluye:
+>
+> * Instagram
+> * TikTok
+> * Spotify
+> * YouTube
+> * Apple Music
+> * Play
+> * Pause
+> * Heart
+> * Camera
+> * Laptop
+> * Mobile
+> * Music
+> * Microphone
+> * Vinyl
+> * Lightning
+> * Star
+> * Fire
+> * Arrow Set
+> * Check
+> * Close
+> * Folder
+> * Link
+> * Download
+> * Share
+>
+> Todos en SVG editable.
+>
+> ---
+>
+> ## Tipografía
+>
+> Crear una escala tipográfica profesional:
+>
+> * Hero XL
+> * Hero
+> * H1
+> * H2
+> * H3
+> * Subtitle
+> * Body
+> * Caption
+> * Label
+> * Overline
+> * Number Display
+>
+> Debe sentirse editorial con títulos muy grandes y composiciones similares a revistas contemporáneas.
+>
+> ---
+>
+> ## Colores
+>
+> Crear Variables para:
+>
+> * Primary
+> * Secondary
+> * Accent
+> * Neutral
+> * Surface
+> * Background
+> * Typography
+> * Highlight
+> * Success
+> * Warning
+> * Error
+>
+> ---
+>
+> ## Organización
+>
+> Organizar el archivo como una biblioteca profesional:
+>
+> 📁 Components
+>
+> 📁 Templates
+>
+> 📁 Decorations
+>
+> 📁 Icons
+>
+> 📁 Photo Frames
+>
+> 📁 Typography
+>
+> 📁 Color Styles
+>
+> 📁 Variables
+>
+> 📁 Assets
+>
+> ---
+>
+> ## Exportación
+>
+> Todos los elementos deben ser independientes para poder exportarlos individualmente:
+>
+> * SVG
+> * PNG
+> * PDF
+>
+> Debo poder descargar por separado:
+>
+> * Iconos
+> * Stickers
+> * Decoraciones
+> * Flechas
+> * Marcos
+> * Fondos
+> * Texturas
+> * Componentes
+> * Templates
+> * Photo Frames
+>
+> ---
+>
+> El resultado debe parecer un **kit premium de diseño para Instagram**, similar a los recursos que venden estudios de diseño profesionales, manteniendo la elegancia editorial inspirada en Shigetaka Ikemoto pero optimizada para contenido moderno en redes sociales.
+
+[1]: https://ikemotoshigetaka.com/?utm_source=chatgpt.com "Shigetaka Ikemoto Official Website"
